@@ -1,0 +1,27 @@
+{
+  "name": "kc-dwalk",
+  "version": "1.0.14",
+  "description": "[nodejs] Return directories in path",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/node-dwalk.git"
+  },
+  "keywords": [
+    "get",
+    "list",
+    "recurse",
+    "iterate",
+    "directories",
+    "dirs",
+    "folders",
+    "recursive",
+    "recursively"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/node-dwalk/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/node-dwalk"
+}
